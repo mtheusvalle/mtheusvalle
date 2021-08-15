@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://matheusvalle.vercel.app/](https://matheusvalle.vercel.app/)
 
-- 💬 Ask me about **react, javascript and C#**
+- 💬 Ask me about **React and Javascript**
 
 - 📫 How to reach me **matheusvalle_vni@outlook.com**
 
