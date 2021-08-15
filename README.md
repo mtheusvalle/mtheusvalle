@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js Next.js MySQL**
 
-- 👨‍💻 All of my projects are available at [https://90sites.netlify.app/](https://90sites.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://matheusvalle.vercel.app/](https://matheusvalle.vercel.app/)
 
 - 💬 Ask me about **react, javascript and C#**
 
