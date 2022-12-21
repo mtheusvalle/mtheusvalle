@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtheusvalle" alt="mtheusvalle" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js Next.js MySQL**
-
 - 👨‍💻 All of my projects are available at [https://matheusvalle.vercel.app/](https://matheusvalle.vercel.app/)
 
-- 💬 Ask me about **React and Javascript**
+- 💬 Ask me about **.NET and Angular**
 
 - 📫 How to reach me **matheusvalle_vni@outlook.com**
 
