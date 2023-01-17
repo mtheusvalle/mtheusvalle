@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Valle</h1>
-<h3 align="center">A front-end developer in Brazil</h3>
+<h3 align="center">A fullstack developer in Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtheusvalle&label=Profile%20views&color=0e75b6&style=flat" alt="mtheusvalle" /> </p>
 
